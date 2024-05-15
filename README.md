@@ -1,14 +1,14 @@
 
 # School and University ERP System (BETA)
 
-Its a php based ERP System that can manage attendence, stream video, Manage Fees, and a all in one hub for a school or University.
+It's a PHP-based ERP System that can manage attendance, stream video, Manage Fees, and an all-in-one hub for a school or University.
 
 
 ## Deployment
 
-- To deploy this project upload the files inside main folder.
-- Then upload and install DB file (main/db/db.sql) to your mysql.
-- Configure the php file dbconnect.php to your database crediantials.
+- To deploy this project upload the files inside the main folder.
+- Then upload and install the DB file (main/db/db.sql) to your mysql.
+- Configure the PHP file dbconnect.php to your database credentials.
 
 
 
