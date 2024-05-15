@@ -1,1 +1,1 @@
-# School-Uni_ERP-System
+# School and University ERP System
