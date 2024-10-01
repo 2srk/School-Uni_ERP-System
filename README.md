@@ -31,3 +31,5 @@ It's a PHP-based ERP System that can manage attendance, stream video, Manage Fee
  - [Tabler UI](https://github.com/tabler/tabler)
 
 
+### It is not a final Product. Please don't directly deploy this project in a production environment. Change necessary Config like password, etc to avoid damages.
+
