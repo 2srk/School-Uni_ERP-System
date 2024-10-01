@@ -5,6 +5,7 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
     <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    
     <title>Start</title>
     <!-- CSS files -->
     <link href="./dist/css/tabler.min.css?1684106062" rel="stylesheet"/>
@@ -27,6 +28,10 @@
     <div class="page">
       <!-- Navbar -->
       <header class="navbar navbar-expand-md d-print-none" >
+        <details>
+  <summary>Beta Version: AL0.12</summary>
+  <p> These Project Files are in Beta and not for production use! Check-in on <a href="https://github.com/2srk/School_ERP_System">Github</a> if any new Version is made. </p>
+</details>
         <div class="container-xl">
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-menu" aria-controls="navbar-menu" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
